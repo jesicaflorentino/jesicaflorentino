@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá! Sou Jésica.
 
-<!--
-**jesicaflorentino/jesicaflorentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição de carreira para a área de Tecnologia,
+com foco em Suporte Técnico (nível inicial).
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software e tenho formação em Letras,
+atuando como professora. Essa combinação fortaleceu minha
+comunicação, organização e capacidade de explicar conceitos técnicos
+de forma clara.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudo:
+- Fundamentos de Suporte Técnico
+- Sistemas operacionais
+- Redes (básico)
+- Java (fundamentos)
+- Lógica de programação
+
+Este GitHub registra meu processo de aprendizado
+e organização técnica.
