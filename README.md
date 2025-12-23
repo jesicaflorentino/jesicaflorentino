@@ -1,4 +1,4 @@
-Olá! Sou Jésica.
+Olá! Sou Jésica Florentino.
 
 Estou em transição de carreira para a área de Tecnologia,
 com foco em Suporte Técnico (nível inicial).
