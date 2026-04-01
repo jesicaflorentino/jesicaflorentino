@@ -4,7 +4,7 @@
 
 Estou em **transição estruturada para a área de Tecnologia da Informação**, construindo minha trajetória com foco em **fundamentos técnicos, prática aplicada, documentação e evolução contínua**.
 
-Sou estudante de **Engenharia de Software** e tenho formação em **Letras**, com experiência em docência, coordenação e produção de conteúdo educacional. Essa trajetória fortaleceu competências que hoje aplico diretamente em tecnologia, como **comunicação clara, pensamento didático, organização, disciplina de estudo e capacidade de transformar assuntos complexos em algo compreensível**.
+Sou estudante de **Engenharia de Software** e tenho formação em **Letras**, com experiência em **docência, coordenação pedagógica, gestão educacional e produção de conteúdo educacional**. Essa trajetória fortaleceu competências que hoje aplico diretamente em tecnologia, como **comunicação clara, pensamento didático, organização, disciplina de estudo e capacidade de transformar assuntos complexos em algo compreensível**.
 
 ---
 
@@ -50,7 +50,7 @@ Este GitHub funciona como meu **laboratório público de aprendizagem**, onde or
 
 I am in a **structured career transition into Information Technology**, building my path through **technical fundamentals, applied practice, documentation, and continuous learning**.
 
-I am currently pursuing a degree in **Software Engineering** and I also have an academic background in **Languages and Education**, with experience in teaching, coordination, and educational content development. This background strengthened skills that I now apply directly to technology, such as **clear communication, didactic thinking, organization, study discipline, and the ability to make complex topics easier to understand**.
+I am currently pursuing a degree in **Software Engineering** and I also have an academic background in **Languages**, with experience in **teaching, academic coordination, educational management, and educational content development**. This background strengthened skills that I now apply directly to technology, such as **clear communication, didactic thinking, organization, study discipline, and the ability to make complex topics easier to understand**.
 
 ---
 
