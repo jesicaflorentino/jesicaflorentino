@@ -1,87 +1,89 @@
 # 🇧🇷 Português
 
-Olá! Sou Jésica Florentino.
+# Olá! Sou Jésica Florentino 👋
 
-Estou em transição de carreira para a área de Tecnologia,
-com foco em Suporte Técnico e desenvolvimento backend.
+Estou em **transição estruturada para a área de Tecnologia da Informação**, construindo minha trajetória com foco em **fundamentos técnicos, prática aplicada, documentação e evolução contínua**.
 
-Sou estudante de Engenharia de Software e tenho formação em Letras,
-atuando como professora. Essa combinação fortaleceu minha
-comunicação, organização e capacidade de explicar conceitos técnicos
-de forma clara e didática.
+Sou estudante de **Engenharia de Software** e tenho formação em **Letras**, com experiência em docência, coordenação e produção de conteúdo educacional. Essa trajetória fortaleceu competências que hoje aplico diretamente em tecnologia, como **comunicação clara, pensamento didático, organização, disciplina de estudo e capacidade de transformar assuntos complexos em algo compreensível**.
 
-##  Atualmente estudo e desenvolvo:
+---
 
-- Fundamentos de Suporte Técnico (N1 e N2)  
+## 📚 Atualmente estudo e desenvolvo:
+
+- Fundamentos de computação  
+- Troubleshooting e raciocínio técnico  
+- Hardware e funcionamento do computador  
 - Sistemas Operacionais (Windows e Linux básico)  
 - Redes de Computadores (fundamentos)  
 - Lógica de Programação e Resolução de Problemas  
-- Estruturas de Dados (nível inicial)  
-- Java (POO, fundamentos e backend iniciante)  
 - Banco de Dados e SQL  
 - Git e GitHub (versionamento e documentação)  
-- Fundamentos de Web (HTTP, APIs REST, JSON)  
+- Fundamentos de Web (HTTP, APIs, JSON)  
 - Inglês técnico para TI  
+- Evolução progressiva em fundamentos de dados  
 
-##  O que você encontrará neste GitHub:
+---
 
-- Projetos em Java (iniciante → intermediário)  
-- Simulações de atendimento de Suporte Técnico  
-- Documentação de estudos e resumos técnicos  
+## 🛠️ O que você encontrará neste GitHub:
+
+- Documentação de estudos e anotações técnicas  
+- Simulações práticas e registros de troubleshooting  
 - Exercícios de lógica de programação  
-- Projetos com integração a banco de dados  
-- Registro da minha evolução na transição de carreira  
-- Prática de versionamento e organização de código  
+- Materiais sobre fundamentos de TI  
+- Repositórios de estudos em banco de dados e SQL  
+- Organização da minha trilha de aprendizagem em tecnologia  
+- Registro contínuo da minha evolução técnica  
 
-##  Objetivo
+---
 
-Construir uma base sólida em suporte técnico e desenvolvimento Java,
-evoluindo de forma consistente para atuar como desenvolvedora backend.
+## 🎯 Objetivo
 
-Este GitHub registra meu processo de aprendizado,
-disciplina de estudos e evolução técnica ao longo do tempo.
+Construir uma base técnica sólida e bem estruturada em Tecnologia da Informação, desenvolvendo raciocínio técnico, capacidade de análise e progressão consistente ao longo do tempo.
+
+Este GitHub funciona como meu **laboratório público de aprendizagem**, onde organizo estudos, práticas, documentação e projetos que acompanham minha evolução na área.
 
 ---
 
 # 🇺🇸 English
 
-Hello! I'm Jésica Florentino.
+# Hello! I'm Jésica Florentino 👋
 
-I am transitioning into the Technology field,
-focusing on Technical Support and backend development.
+I am in a **structured career transition into Information Technology**, building my path through **technical fundamentals, applied practice, documentation, and continuous learning**.
 
-I am a Software Engineering student with a degree in Languages,
-working as a teacher. This combination strengthened my
-communication, organization, and ability to explain technical
-concepts clearly.
+I am currently pursuing a degree in **Software Engineering** and I also have an academic background in **Languages and Education**, with experience in teaching, coordination, and educational content development. This background strengthened skills that I now apply directly to technology, such as **clear communication, didactic thinking, organization, study discipline, and the ability to make complex topics easier to understand**.
 
-##  Currently studying and developing:
+---
 
-- Technical Support fundamentals (N1 and N2)  
+## 📚 What I am currently studying and developing:
+
+- Computing fundamentals  
+- Troubleshooting and technical reasoning  
+- Computer hardware and system fundamentals  
 - Operating Systems (Windows and basic Linux)  
-- Computer Networks (fundamentals)  
+- Computer Networking (fundamentals)  
 - Programming Logic and Problem Solving  
-- Data Structures (beginner level)  
-- Java (OOP, fundamentals, and beginner backend)  
 - Databases and SQL  
 - Git and GitHub (version control and documentation)  
-- Web fundamentals (HTTP, REST APIs, JSON)  
+- Web fundamentals (HTTP, APIs, JSON)  
 - Technical English for IT  
+- Progressive learning in data fundamentals  
 
-##  What you will find on this GitHub:
+---
 
-- Java projects (beginner → intermediate)  
-- Technical Support simulations  
-- Study documentation and technical notes  
+## 🛠️ What you will find in this GitHub:
+
+- Study notes and technical documentation  
+- Practical simulations and troubleshooting records  
 - Programming logic exercises  
-- Database-integrated projects  
-- Records of my career transition journey  
-- Version control and code organization practice  
+- Materials on IT fundamentals  
+- Study repositories related to databases and SQL  
+- My structured technology learning path  
+- A continuous record of my technical growth  
 
-##  Goal
+---
 
-To build a strong foundation in technical support and Java development,
-progressing consistently toward a backend developer role.
+## 🎯 Objective
 
-This GitHub documents my learning process,
-study discipline, and technical growth over time.
+To build a strong and well-structured technical foundation in Information Technology, developing technical reasoning, analytical skills, and consistent long-term growth.
+
+This GitHub works as my **public learning lab**, where I organize studies, practice, documentation, and projects that reflect my development in the field.
